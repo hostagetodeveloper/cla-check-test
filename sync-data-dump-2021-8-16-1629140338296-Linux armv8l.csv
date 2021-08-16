@@ -1,0 +1,357 @@
+2021-08-16T18:58:58.290Z,Mozilla/5.0 (Linux; Android 11; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+=====
+{
+  "actionable_error": [
+    {
+      "is_valid": false,
+      "stat_name": "Error Type",
+      "stat_value": "Uninitialized"
+    },
+    {
+      "is_valid": false,
+      "stat_name": "Action",
+      "stat_value": "Uninitialized"
+    },
+    {
+      "is_valid": false,
+      "stat_name": "URL",
+      "stat_value": "Uninitialized"
+    },
+    {
+      "is_valid": false,
+      "stat_name": "Error Description",
+      "stat_value": "Uninitialized"
+    }
+  ],
+  "actionable_error_detected": false,
+  "details": [
+    {
+      "data": [
+        {
+          "is_valid": true,
+          "stat_name": "Transport State",
+          "stat_value": "Disabled"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Disable Reasons",
+          "stat_value": "Platform override, Not signed in, User choice"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Sync Feature Enabled",
+          "stat_value": false
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Setup In Progress",
+          "stat_value": false
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Auth Error",
+          "stat_value": "OK since browser startup"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Summary"
+    },
+    {
+      "data": [
+        {
+          "is_valid": true,
+          "stat_name": "Client Version",
+          "stat_value": "Google Chrome Android 83.0.4103.106 (ce7134bb3d95141cd18f1e65772a4247f282d950-refs/branch-heads/4103@{#694}) stable"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Server URL",
+          "stat_value": "https://clients4.google.com/chrome-sync"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Version Info"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Sync Client ID",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Invalidator Client ID",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Username",
+          "stat_value": ""
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Is Primary",
+          "stat_value": false
+        }
+      ],
+      "is_sensitive": true,
+      "title": "Identity"
+    },
+    {
+      "data": [
+        {
+          "is_valid": true,
+          "stat_name": "Requested Token",
+          "stat_value": "n/a"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Received Token Response",
+          "stat_value": "n/a"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Last Token Request Result",
+          "stat_value": "OK"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Has Token",
+          "stat_value": false
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Next Token Request",
+          "stat_value": "not scheduled"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Credentials"
+    },
+    {
+      "data": [
+        {
+          "is_valid": true,
+          "stat_name": "Server Connection",
+          "stat_value": "not attempted"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Last Synced",
+          "stat_value": "Never"
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Sync First-Time Setup Complete",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Sync Cycle Ongoing",
+          "stat_value": false
+        },
+        {
+          "is_valid": true,
+          "stat_name": "Local Sync Backend Enabled",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Local Backend Path",
+          "stat_value": "Uninitialized"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Local State"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Throttled or Backoff",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Retry Time",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Notifications Enabled",
+          "stat_value": false
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Network"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Explicit Passphrase",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Passphrase Required",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Cryptographer Ready To Encrypt",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Cryptographer Has Pending Keys",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Encrypted Types",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Has Keystore Key",
+          "stat_value": false
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Keystore Migration Time",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Passphrase Type",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Passphrase Time",
+          "stat_value": "Uninitialized"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Encryption"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Sync Source",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "GetKey Step Result",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Download Step Result",
+          "stat_value": "Uninitialized"
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Commit Step Result",
+          "stat_value": "Uninitialized"
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Status from Last Completed Session"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Notifications Received",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Updates Downloaded",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Tombstone Updates",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Reflected Updates",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Successful Commits",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Conflicts Resolved: Client Wins",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Conflicts Resolved: Server Wins",
+          "stat_value": 0
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Running Totals"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Encryption Conflicts",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Hierarchy Conflicts",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Server Conflicts",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Committed Items",
+          "stat_value": 0
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Transient Counters (this cycle)"
+    },
+    {
+      "data": [
+        {
+          "is_valid": false,
+          "stat_name": "Updates Downloaded",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Committed Count",
+          "stat_value": 0
+        },
+        {
+          "is_valid": false,
+          "stat_name": "Entries",
+          "stat_value": 0
+        }
+      ],
+      "is_sensitive": false,
+      "title": "Transient Counters (last cycle of last completed session)"
+    }
+  ],
+  "type_status": [],
+  "unrecoverable_error_detected": false
+}
